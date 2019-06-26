@@ -32,6 +32,10 @@ public class LoginActivity extends AppCompatActivity {
     public void showMessage(String message) {
         Toast.makeText(this, message, Toast.LENGTH_LONG).show();
     }
+    
+    public Activity getActivity(){
+        return this;
+    }
 
     public void onBtnLoginClicked(View view) {
         // 1. Getting username and password inputs from view
