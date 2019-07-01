@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\f8f2ff5496cc9a7646f82f6dddffe1a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\7556cea5ffee92dbebe2c3183f4e10be\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\5cdcd146c31e3d8ebce94b47428f3d3e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c6b921e81ae5efd0dc5f6c850f2aa97a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\7df35ee8ad8cb1a6f029b156a5ae69b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\dc76eb27a1749f374545a1963cf61da2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\8cbcfb0044cda0b536d27285eef015ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\54072ee35933255cc9403f70e6adc51d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\a276ac7dc2d033fee3830902fa6a0a1b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c8c92cdbe48767c15aff941e627231bc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\e850950277043bba5dc2486d1f1f0aa6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\040d5a87d39766371bd091b1a6bc3362\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c15477f44ae60e5de41692ecc460df4e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\7556cea5ffee92dbebe2c3183f4e10be\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\7556cea5ffee92dbebe2c3183f4e10be\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\5cdcd146c31e3d8ebce94b47428f3d3e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\5cdcd146c31e3d8ebce94b47428f3d3e\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:14:9-44
+activity#cs2901.utec.chat_mobile.LoginActivity
+ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:15:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\f8f2ff5496cc9a7646f82f6dddffe1a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\f8f2ff5496cc9a7646f82f6dddffe1a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\7556cea5ffee92dbebe2c3183f4e10be\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\7556cea5ffee92dbebe2c3183f4e10be\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\5cdcd146c31e3d8ebce94b47428f3d3e\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\5cdcd146c31e3d8ebce94b47428f3d3e\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c6b921e81ae5efd0dc5f6c850f2aa97a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c6b921e81ae5efd0dc5f6c850f2aa97a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\7df35ee8ad8cb1a6f029b156a5ae69b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\7df35ee8ad8cb1a6f029b156a5ae69b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\dc76eb27a1749f374545a1963cf61da2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\dc76eb27a1749f374545a1963cf61da2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\8cbcfb0044cda0b536d27285eef015ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\8cbcfb0044cda0b536d27285eef015ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\54072ee35933255cc9403f70e6adc51d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\54072ee35933255cc9403f70e6adc51d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\a276ac7dc2d033fee3830902fa6a0a1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\a276ac7dc2d033fee3830902fa6a0a1b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c8c92cdbe48767c15aff941e627231bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c8c92cdbe48767c15aff941e627231bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\e850950277043bba5dc2486d1f1f0aa6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\e850950277043bba5dc2486d1f1f0aa6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\040d5a87d39766371bd091b1a6bc3362\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\040d5a87d39766371bd091b1a6bc3362\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c15477f44ae60e5de41692ecc460df4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rodri\.gradle\caches\transforms-2\files-2.1\c15477f44ae60e5de41692ecc460df4e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rodri\OneDrive\Escritorio\chat-mobile-pastoruri-master\app\src\main\AndroidManifest.xml
