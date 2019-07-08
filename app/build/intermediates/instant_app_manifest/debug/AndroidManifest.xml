@@ -20,6 +20,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
+        <activity
+            android:name="cs2901.utec.chat_mobile.ContactsActivity"
+            android:label="@string/title_activity_contacts"
+            android:parentActivityName="cs2901.utec.chat_mobile.LoginActivity" >
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
         <activity android:name="cs2901.utec.chat_mobile.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
